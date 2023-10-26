@@ -1,1 +1,1 @@
-# SnakesAndLadders-JS
+# Snakes and Ladders in JavaScript
